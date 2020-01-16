@@ -5,7 +5,7 @@
         "label": "cargo run example",
         "type": "shell",
         "command": "cargo",
-        "args": ["run", "--example", "simple"],
+        "args": ["run", "--example", "night_rider"],
         "group": {
           "kind": "build",
           "isDefault": true
